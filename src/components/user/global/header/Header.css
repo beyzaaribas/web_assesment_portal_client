@@ -1,0 +1,39 @@
+.header-full {
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    z-index: 20;
+    height: 70px;
+  }
+
+  .logo-box-content{
+    width: 10%;
+  }
+
+  .logo-box-content img{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+
+  .nav-items{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .nav-items ul{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    left: -4%;
+  }
+
+  .nav-items ul li{
+    display: inline-block;
+    padding: 0px 20px;
+  }

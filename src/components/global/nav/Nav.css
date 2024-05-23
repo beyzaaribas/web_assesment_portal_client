@@ -1,0 +1,78 @@
+.nav{
+    width: 100%;
+    padding: 10px 13px;
+}
+
+.nav ul{
+    width: 100%;
+}
+
+.nav ul label{
+    font-size: 11px;
+    font-weight: 500;
+    color: #1D9BF0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 10px;
+    display: flex;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.075);
+    padding-bottom: 5px;
+    margin-top: 22px;
+    padding-left: 7px;
+}
+
+.nav ul label:first-child{
+    margin-top: 0px;
+}
+
+.nav ul label .label-icon{
+    font-size: 16px;
+    margin-right: 5px;
+    position: relative;
+    top: -6px;
+    color: #1D9BF0;
+}
+
+.nav ul li{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding: 8px 7px;
+    cursor: pointer;
+    margin-bottom: 2px;
+    transition:  all 0.1s;
+    border-radius: 10px;
+}
+
+.nav ul li.active{
+    background-color: #F7F8FD;
+
+}
+
+.nav ul li:hover{
+    background-color: #F7F8FD;
+}
+
+.nav ul li .nav-icon{
+    font-size: 18px;
+    margin-right: 8px;
+    top: -6px;
+    position: relative;
+    color: #7B8191;
+}
+
+.nav ul li #results-icon{
+     top: -5px;
+}
+
+.nav ul li a{
+    font-weight: 400;
+    font-size: 13px;
+    color: #7B8191;
+    display: block;
+    width: 100%;
+    letter-spacing: 0.5px;
+
+}
+
+

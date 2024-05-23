@@ -1,0 +1,70 @@
+.statistics{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.statistic-box{
+    background-color: #fff;
+    border: 0 solid transparent;
+    border-radius: 5px;
+    box-shadow: 2px 8px 17px rgba(154, 154, 204, .2);
+    display: flex;
+    margin-bottom: 20px;
+    margin-right: 1.5%;
+    padding: 15px 25px 15px 25px;
+    width: 23%;
+
+}
+
+.statistic-box-text {
+    position: relative;
+    top: -4px;
+    width: 90%;
+}
+
+.statistic-box-text h2 {
+    color: #9f9b9b;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 6px 0;
+}
+
+.statistic-box-text span {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.statistic-icon {
+    border-radius: 8px;
+    font-size: 25px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 60px;
+    position: relative;
+    top: 0px;
+}
+
+.statistic-box.completed .statistic-icon{
+    background-color: rgba(79, 170, 51, 0.2);
+    color: rgb(79, 170, 51);
+}
+
+.statistic-box.pending .statistic-icon{
+    background-color: rgb(255, 242, 222);
+    color: rgb(255, 193, 7);
+}
+
+.statistic-box.completed-tests .statistic-icon{
+    background-color: rgb(180, 228, 255);
+    color: #fff;
+}
+
+.statistic-box.total .statistic-icon{
+    background-color: rgb(220, 243, 252);
+    color: rgb(78, 194, 240);
+}

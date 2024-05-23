@@ -1,0 +1,132 @@
+.login-wrapper{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+.login-content{
+    width: 50%;
+    position: relative;
+}
+
+
+.logo-box_login{
+    width: 100%;
+    height: 350px;
+    position: relative;
+    top: -20px;
+}
+
+.logo-box_login img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+
+.login-form{
+    position: absolute;
+    top: 0%;
+    max-width: 80%;
+    margin: 0px auto;
+    left: 10%;
+}
+
+.login-form form{
+    position: relative;
+    margin-top: -100px;
+}
+
+.login-form h2{
+    width: 100%;
+    display: block;
+    height: 30px;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.login-form label {
+    font-size: 14px!important;
+    font-weight: 500;
+    letter-spacing: 1.1px;
+    position: relative;
+    top: 1px;
+    margin: 20px 0px;
+    left: 10px;
+}
+
+.login-form input {
+    background-color: #f3f6f9;
+    border-color: #f3f6f9;
+    border: 1px solid rgba(0,0,0,.08)!important;
+    border-radius: 10px!important;
+    color: #3f4254;
+    outline: none!important;
+    padding: 24px;
+}
+
+.form-label:before {
+    background-color: #1d9bf0;
+    border-radius: 100%;
+    content: "";
+    display: block;
+    height: 17px;
+    left: -7px;
+    position: absolute;
+    width: 1.05px;
+}
+
+.login-form-btn{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.login-form-btn button{
+    margin-right: 10px;
+    position: relative;
+    left: inherit;
+    right: inherit;
+    top: 0px;
+    margin-top: 30px;
+    height: auto;
+    letter-spacing: 2px;
+    font-size: 16px;
+    padding: 18px 24px;
+}
+
+.login-form-btn button:last-child{
+    background-color: #1d9bf0;
+    color:#fff;
+}
+
+.login-img{
+    width: 50%;
+    height: 100vh;
+    background: url(https://wallpapercave.com/wp/wp2019265.jpg);
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+
+.login-img img{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    position: absolute;
+    bottom: 0px;
+    display: none;
+  
+}
+
+.login-icon{
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    color: #1d9bf0;
+    font-size: 50px;
+    opacity: .1;
+    display: none;
+}

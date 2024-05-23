@@ -1,0 +1,50 @@
+[
+  {
+    "id": 31,
+    "team_name": "Design",
+    "team_lead": "Beyza",
+    "member_count": 14
+  },
+  {
+    "id": 32,
+    "team_name": "Software",
+    "team_lead": "Sezgin",
+    "member_count": 4
+  },
+  {
+    "id": 33,
+    "team_name": "Finance",
+    "team_lead": "yok",
+    "member_count": 4
+  },
+  {
+    "id": 33,
+    "team_name": "Marketing",
+    "team_lead": "Beyza",
+    "member_count": 1
+  },
+  {
+    "id": 31,
+    "team_name": "Design",
+    "team_lead": "Beyza",
+    "member_count": 14
+  },
+  {
+    "id": 32,
+    "team_name": "Software",
+    "team_lead": "Sezgin",
+    "member_count": 4
+  },
+  {
+    "id": 33,
+    "team_name": "Finance",
+    "team_lead": "yok",
+    "member_count": 4
+  },
+  {
+    "id": 33,
+    "team_name": "Marketing",
+    "team_lead": "Beyza",
+    "member_count": 1
+  }
+]

@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "Fullname": "John Doe",
+      "Position": "Developer",
+      "DateOfEntry": "2022-01-01",
+      "profileIMG": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=1430",
+      "Age": 25,
+      "Gender": "Male",
+      "BirthdayYear": "2000-10-10",
+      "Point": 90
+    },
+    {
+      "id": 2,
+      "Fullname": "Jane Doe",
+      "Position": "Designer",
+      "DateOfEntry": "2021-12-15",
+      "profileIMG": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=1430",
+      "Age": 28,
+      "Gender": "Female",
+      "BirthdayYear": "1994-06-15",
+      "Point": 85
+    },
+    {
+      "id": 3,
+      "Fullname": "Alice Smith",
+      "Position": "Manager",
+      "DateOfEntry": "2022-02-10",
+      "profileIMG": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=1430",
+      "Age": 30,
+      "Gender": "Female",
+      "BirthdayYear": "1992-08-20",
+      "Point": 95
+    },
+    {
+      "id": 4,
+      "Fullname": "Bob Johnson",
+      "Position": "Manager",
+      "DateOfEntry": "2022-02-10",
+      "profileIMG": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=1430",
+      "Age": 32,
+      "Gender": "Male",
+      "BirthdayYear": "1989-04-05",
+      "Point": 92
+    },
+    {
+      "id": 5,
+      "Fullname": "Eva Williams",
+      "Position": "Manager",
+      "DateOfEntry": "2022-02-10",
+      "profileIMG": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=1430",
+      "Age": 28,
+      "Gender": "Female",
+      "BirthdayYear": "1993-11-12",
+      "Point": 87
+    },
+    {
+      "id": 6,
+      "Fullname": "Charlie Brown",
+      "Position": "Manager",
+      "DateOfEntry": "2022-02-10",
+      "profileIMG": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=1430",
+      "Age": 33,
+      "Gender": "Male",
+      "BirthdayYear": "1988-07-25",
+      "Point": 89
+    }
+  ]
+  

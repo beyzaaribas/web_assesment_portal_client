@@ -1,0 +1,167 @@
+.header {
+  width: 100%;
+  background-color: #fff;
+  display: flex;
+  justify-content: flex-end;
+  padding: 15px 30px;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  z-index: 20;
+}
+
+.profile-dropdown {
+  width: 7%;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+  padding-top: 0px;
+  cursor: pointer;
+  position: relative;
+}
+
+.profile-links {
+  position: absolute;
+  top: 45px;
+  background-color: #fff;
+  width: 120px;
+  left: -20px;
+  padding-left: 0px;
+  padding: 10px 30px;
+  list-style: none;
+  border-radius: 10px;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  display: none;
+
+}
+
+.profile-links.open {
+    
+   display: block;
+  
+  }
+
+.profile-link {
+  width: 100%;
+  padding: 5px 0px;
+  text-align: center;
+}
+
+.profile-link a {
+  color: #222;
+  font-size: 15px;
+}
+
+.profile-link:hover a{
+    color: #007dfc;
+}
+
+.profile-dropdown:hover .profile-img {
+  transform: scale(1.2);
+  border: 2px solid #007dfc;
+}
+
+.profile-img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  border: 2px solid #ddd;
+  margin-right: 7px;
+  transition: all 0.2s;
+}
+
+.profile-name {
+  font-size: 13px;
+  padding: 6px 0px;
+  padding-right: 4px;
+  cursor: pointer;
+  color: #222;
+  font-weight: 500;
+}
+
+.profile-show {
+  font-size: 10px;
+  position: relative;
+  top: 16px;
+  color: #aaa;
+}
+
+.logout-btn {
+  font-size: 25px;
+  width: 20px;
+  margin-right: 13px;
+  position: relative;
+  padding-top: 0px;
+  color: #007dfc;
+  display: block;
+  cursor: pointer;
+}
+
+.search-box {
+  width: 90%;
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 20px;
+  position: relative;
+  left: -5px;
+}
+
+.search-box .form-control {
+  width: 80%;
+  border-radius: 8px;
+  padding: 7px 20px;
+  font-size: 13px;
+  color: #aaa;
+  padding-left: 40px;
+  position: relative;
+  top: 5px;
+}
+
+.search-icon {
+  position: absolute;
+  top: 10px;
+  color: #aaa;
+  left: 30px;
+}
+
+.wallet {
+  display: flex;
+  font-weight: 600;
+  font-size: 13px;
+  margin-right: 20px;
+  color: #959491;
+  border-radius: 4px;
+  justify-content: center;
+  align-items: center;
+}
+
+.wallet-icon {
+  display: inline-block;
+  position: relative;
+  left: -5px;
+  top: -2px;
+  color: #1d9bf0;
+}
+
+.point-icon {
+  font-size: 8px;
+  background-color: #1d9bf0;
+  color: #fff;
+  height: 12px;
+  width: 12px;
+  margin-left: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -4px;
+  border-radius: 50%;
+}
+
+
+.profile-name{
+  margin-top: 5px;
+  color: #1d9bf0;
+  position: relative;
+  right: -10px;
+}

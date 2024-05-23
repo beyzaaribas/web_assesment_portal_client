@@ -1,0 +1,123 @@
+[
+    {
+      "id": 31,
+      "activity_title": "Assigned a new task to Ethan Clark.",
+      "task_title": "Optimize Database Queries",
+      "task_description": "Improve efficiency and performance of database queries",
+      "task_person_lead": "Daniel Johnson",
+      "task_person": "Ethan Clark",
+      "task_start_date": "2022-06-15",
+      "task_end_date": "2022-07-05",
+      "task_status": 1,
+      "Point": 80
+    },
+    {
+      "id": 32,
+      "activity_title": "Assigned a new task to Benjamin Turner.",
+      "task_title": "Implement Authentication System",
+      "task_description": "Develop a secure authentication system for the application",
+      "task_person_lead": "Christopher Taylor",
+      "task_person": "Benjamin Turner",
+      "task_start_date": "2022-07-10",
+      "task_end_date": "2022-08-01",
+      "task_status": 3,
+      "Point": 90
+    },
+    {
+      "id": 33,
+      "activity_title": "Assigned a new task to Owen White.",
+      "task_title": "Design Database Schema",
+      "task_description": "Create an effective and scalable database schema",
+      "task_person_lead": "Daniel Johnson",
+      "task_person": "Owen White",
+      "task_start_date": "2022-08-15",
+      "task_end_date": "2022-09-05",
+      "task_status": 2,
+      "Point": 75
+    },
+    {
+      "id": 34,
+      "activity_title": "Assigned a new task to Wyatt Davis.",
+      "task_title": "Code Refactoring",
+      "task_description": "Improve code structure and maintainability",
+      "task_person_lead": "Christopher Taylor",
+      "task_person": "Wyatt Davis",
+      "task_start_date": "2022-09-10",
+      "task_end_date": "2022-10-01",
+      "task_status": 1,
+      "Point": 85
+    },
+    {
+      "id": 35,
+      "activity_title": "Assigned a new task to Leo Martinez.",
+      "task_title": "Deploy Application to Production",
+      "task_description": "Release the application to the production environment",
+      "task_person_lead": "Daniel Johnson",
+      "task_person": "Leo Martinez",
+      "task_start_date": "2022-10-15",
+      "task_end_date": "2022-11-05",
+      "task_status": 3,
+      "Point": 88
+    },
+    {
+      "id": 36,
+      "activity_title": "Assigned a new task to Cooper Lewis.",
+      "task_title": "Bug Fixing",
+      "task_description": "Identify and fix bugs in the application",
+      "task_person_lead": "Christopher Taylor",
+      "task_person": "Cooper Lewis",
+      "task_start_date": "2022-11-10",
+      "task_end_date": "2022-12-01",
+      "task_status": 2,
+      "Point": 78
+    },
+    {
+      "id": 37,
+      "activity_title": "Assigned a new task to Logan Turner.",
+      "task_title": "Implement User Feedback",
+      "task_description": "Incorporate user feedback into the application",
+      "task_person_lead": "Daniel Johnson",
+      "task_person": "Logan Turner",
+      "task_start_date": "2022-12-15",
+      "task_end_date": "2023-01-05",
+      "task_status": 1,
+      "Point": 92
+    },
+    {
+      "id": 38,
+      "activity_title": "Assigned a new task to Jackson White.",
+      "task_title": "Enhance UI/UX",
+      "task_description": "Improve the overall user interface and experience",
+      "task_person_lead": "Christopher Taylor",
+      "task_person": "Jackson White",
+      "task_start_date": "2023-01-10",
+      "task_end_date": "2023-02-01",
+      "task_status": 3,
+      "Point": 87
+    },
+    {
+      "id": 39,
+      "activity_title": "Assigned a new task to Noah Davis.",
+      "task_title": "Security Audit",
+      "task_description": "Conduct a security audit for the application",
+      "task_person_lead": "Daniel Johnson",
+      "task_person": "Noah Davis",
+      "task_start_date": "2023-02-15",
+      "task_end_date": "2023-03-05",
+      "task_status": 2,
+      "Point": 83
+    },
+    {
+      "id": 40,
+      "activity_title": "Assigned a new task to Carter Martinez.",
+      "task_title": "Documentation Update",
+      "task_description": "Update project documentation and guides",
+      "task_person_lead": "Christopher Taylor",
+      "task_person": "Carter Martinez",
+      "task_start_date": "2023-03-10",
+      "task_end_date": "2023-04-01",
+      "task_status": 1,
+      "Point": 89
+    }
+  ]
+  
